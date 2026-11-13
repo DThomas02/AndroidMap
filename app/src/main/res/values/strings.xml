@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">AndroidMap</string>
+    <string name="compass_description">Compass heading %1$s</string>
+    <string name="compass_unavailable">Compass heading unavailable</string>
+    <string name="compass_unknown" translatable="false">?</string>
     <string name="augusta_tech_name">Augusta Technical College</string>
     <string name="augusta_tech_address">3200 Augusta Tech Dr, Augusta, GA 30906</string>
 </resources>
